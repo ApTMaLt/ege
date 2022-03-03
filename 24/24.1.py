@@ -1,0 +1,6 @@
+file = open("24_demo.txt").read()
+print(file)
+counter = file.count('YYYYYYYYYYY')
+print(counter)
+c = 'YYYYYYYYYY'.count('Y')
+print(c)
